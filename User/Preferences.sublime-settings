@@ -1,0 +1,14 @@
+{
+	"font_face": "monaco",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme"
+}
